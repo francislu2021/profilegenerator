@@ -1,22 +1,23 @@
 {
-  "name": "profilegenerator",
-  "version": "1.0.0",
-  "description": "## User Story AS A manager I WANT to generate a webpage that displays my team's basic info SO THAT I have quick access to their emails and GitHub profiles",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/francislu2021/profilegenerator.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/francislu2021/profilegenerator/issues"
-  },
-  "homepage": "https://github.com/francislu2021/profilegenerator#readme",
-  "devDependencies": {
-    "jest": "^27.1.0"
-  }
+    "name": "profilegenerator",
+    "version": "1.0.0",
+    "description": "## User Story AS A manager I WANT to generate a webpage that displays my team's basic info SO THAT I have quick access to their emails and GitHub profiles",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/francislu2021/profilegenerator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/francislu2021/profilegenerator/issues"
+    },
+    "homepage": "https://github.com/francislu2021/profilegenerator#readme",
+    "devDependencies": {
+        "jest": "^27.1.0"
+    }
 }
