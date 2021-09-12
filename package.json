@@ -5,7 +5,6 @@
     "main": "index.js",
     "scripts": {
         "test": "jest"
-
     },
     "repository": {
         "type": "git",
@@ -19,5 +18,8 @@
     "homepage": "https://github.com/francislu2021/profilegenerator#readme",
     "devDependencies": {
         "jest": "^27.1.0"
+    },
+    "dependencies": {
+        "inquirer": "^8.1.2"
     }
 }
