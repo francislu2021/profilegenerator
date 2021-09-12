@@ -1,5 +1,10 @@
 # profilegenerator
 
+video link:
+https://drive.google.com/file/d/1eaAKohQLMSHCIoUlBaZwBDqbEOK3ixYM/view
+
+
+
 ## User Story
 AS A manager
 I WANT to generate a webpage that displays my team's basic info
